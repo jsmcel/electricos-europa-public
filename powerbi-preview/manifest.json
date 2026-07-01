@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-07-01T12:18:11.969Z",
+  "input_layer": "public-safe Power BI CSV analytical layer",
+  "countries": 34,
+  "top10": [
+    "DE",
+    "GB",
+    "FR",
+    "IT",
+    "ES",
+    "NL",
+    "SE",
+    "TR",
+    "NO",
+    "DK"
+  ],
+  "model_countries": [
+    "AT",
+    "BE",
+    "DE",
+    "DK",
+    "ES",
+    "FR",
+    "GB",
+    "IT",
+    "NL",
+    "NO",
+    "PL",
+    "SE"
+  ],
+  "executive_insights": 9,
+  "sha256": "1b087cab87fb9626b9f80424b096489a37e647b81cc51940cebe9a53e642555e"
+}
