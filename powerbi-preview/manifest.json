@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T06:18:27.378Z",
+  "generated_at": "2026-07-03T11:34:38.099Z",
   "input_layer": "public-safe Power BI CSV analytical layer",
   "countries": 34,
   "top10": [
@@ -29,5 +29,5 @@
     "SE"
   ],
   "executive_insights": 9,
-  "sha256": "b2cb2892480137a76b99c57c6c7674b1f9d2459d4a59685c11bc93441a08b74f"
+  "sha256": "193e2b8e504dc742a43d954b269f37e129899647c44b2836fb9228573f2da936"
 }
